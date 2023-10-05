@@ -7,7 +7,7 @@
   <body>
     <h1>Claire的訓練計畫</h1>
     <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_600,w_800,f_auto,q_auto/6854615/492705_919805.jpeg" alt="online">
-    <p> by.Stephanie.L <</p>
+    <p> by.Stephanie.L </p>
     <hr>
     <p>The body achieves what the mind believes  </p>
     <hr>
